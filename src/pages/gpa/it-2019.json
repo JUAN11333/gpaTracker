@@ -1,0 +1,436 @@
+{
+  "curriculum": {
+    "name": "Information Technology",
+    "subjects": [
+      {
+        "groupName": "Language Courses",
+        "subjects": [
+          {
+            "code": "BG 1001",
+            "name": "English I"
+          },
+          {
+            "code": "BG 1002",
+            "name": "English II"
+          },
+          {
+            "code": "BG 2000",
+            "name": "English III"
+          },
+          {
+            "code": "BG 2001",
+            "name": "English IV"
+          }
+        ]
+      },
+      {
+        "groupName": "Humanities Courses",
+        "subjects": [
+          {
+            "code": "BG 1400",
+            "name": "Business Law I"
+          }
+        ]
+      },
+      {
+        "groupName": "Social Science Courses",
+        "subjects": [
+          {
+            "code": "GE 2202",
+            "name": "Ethics"
+          },
+          {
+            "code": "MGT1101",
+            "name": "Introduction to Business"
+          }
+        ]
+      },
+      {
+        "groupName": "Science and Mathemetics Courses",
+        "subjects": [
+          {
+            "code": "ACT 1601",
+            "name": "Fundamentals of Financial Accounting"
+          },
+          {
+            "code": "ITX 1001",
+            "name": "Basic Mathematics and Statistics"
+          }
+        ]
+      },
+      {
+        "groupName": "General Education Courses",
+        "subjects": [
+          {
+            "code": "GE 1101",
+            "name": "Thai Civilization"
+          },
+          {
+            "code": "GE 1102",
+            "name": "Introduction to Philosophy"
+          },
+          {
+            "code": "GE 2101",
+            "name": "World Civilization"
+          },
+          {
+            "code": "GE 2103",
+            "name": "Art of Reasoning"
+          },
+          {
+            "code": "GE 2104",
+            "name": "Thai Buddhism"
+          },
+          {
+            "code": "GE 2105",
+            "name": "Introduction to World Religion"
+          },
+          {
+            "code": "GE 2106",
+            "name": "Logical Thinking and Application"
+          },
+          {
+            "code": "GE 2107",
+            "name": "Applied Philosophy in Social Sciences and Humanities"
+          },
+          {
+            "code": "MGT 2404",
+            "name": "Managerial Psychology"
+          },
+          {
+            "code": "GE 1207",
+            "name": "Fundamental Psychology"
+          },
+          {
+            "code": "GE 1203",
+            "name": "Society, Politics and Economics"
+          },
+          {
+            "code": "GE 1205",
+            "name": "ASEAN Ways"
+          },
+          {
+            "code": "GE 1206",
+            "name": "Philosophy of Sufficiency Economy"
+          },
+          {
+            "code": "GE 2203",
+            "name": "Art of Living"
+          },
+          {
+            "code": "GE 2205",
+            "name": "Communication and Multicultural society"
+          },
+          {
+            "code": "GE 2206",
+            "name": "Personality Development"
+          },
+          {
+            "code": "GE 2207",
+            "name": "Sport, Health and Wellness Development"
+          },
+          {
+            "code": "GE 2208",
+            "name": "Thai Politics and Government"
+          },
+          {
+            "code": "ECO 2200",
+            "name": "Introduction to Economics"
+          },
+          {
+            "code": "GE 1301",
+            "name": "Environmental Science"
+          },
+          {
+            "code": "GE 2301",
+            "name": "Lifestyles in Dynamic World"
+          },
+          {
+            "code": "GE 2302",
+            "name": "Climate Change and Human Life"
+          },
+          {
+            "code": "GE 2303",
+            "name": "Building Brilliant Brain"
+          },
+          {
+            "code": "MA 1200",
+            "name": "Mathematics for Business"
+          },
+          {
+            "code": "GE 1403",
+            "name": "Communication in Thai"
+          },
+          {
+            "code": "GE 1405",
+            "name": "Thai Language and Culture"
+          },
+          {
+            "code": "GE 1406",
+            "name": "Burmese Language"
+          },
+          {
+            "code": "GE 1407",
+            "name": "Russian Language"
+          },
+          {
+            "code": "GE 3401",
+            "name": "Public Speaking in Thai"
+          }
+        ]
+      },
+      {
+        "groupName": "Core Courses",
+        "subjects": [
+          {
+            "code": "ITX 2002",
+            "name": "Calculus"
+          },
+          {
+            "code": "ITX 2003",
+            "name": "Principles of Statistics"
+          },
+          {
+            "code": "ITX 2005",
+            "name": "Design Thinking"
+          },
+          {
+            "code": "ITX 2006",
+            "name": "Mathematics and Statistics for Data Science"
+          },
+          {
+            "code": "ITX 3002",
+            "name": "Introduction to Information Technology"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Courses",
+        "subjects": [
+          {
+            "code": "ITX 2001",
+            "name": "Object-Oriented Concepts and Programming"
+          },
+          {
+            "code": "ITX 2004",
+            "name": "UI/UX Design and Prototyping"
+          },
+          {
+            "code": "ITX 2007",
+            "name": "Data Science"
+          },
+          {
+            "code": "ITX 2008",
+            "name": "Cloud Computing"
+          },
+          {
+            "code": "ITX 2009",
+            "name": "Presentation and Data Visualization Techniques"
+          },
+          {
+            "code": "ITX 2010",
+            "name": "Data Structure and Algorithms"
+          },
+          {
+            "code": "ITX 3001",
+            "name": "Fundamentals of Computer Programming"
+          },
+          {
+            "code": "ITX 3003",
+            "name": "Business Systems"
+          },
+          {
+            "code": "ITX 3004",
+            "name": "Information System Analysis and Design"
+          },
+          {
+            "code": "ITX 3005",
+            "name": "Computer Networks"
+          },
+          {
+            "code": "ITX 3006",
+            "name": "Database Management Systems"
+          },
+          {
+            "code": "ITX 3007",
+            "name": "Software Engineering"
+          },
+          {
+            "code": "ITX 3008",
+            "name": "IT Project Management"
+          },
+          {
+            "code": "ITX 3009",
+            "name": "Senior Project I"
+          },
+          {
+            "code": "ITX 3010",
+            "name": "Senior Project II"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses Group 1",
+        "subjects": [
+          {
+            "code": "ITX 4103",
+            "name": "Requirement Engineering"
+          },
+          {
+            "code": "ITX 4104",
+            "name": "Software Testing"
+          },
+          {
+            "code": "ITX 4106",
+            "name": "Enterprise Architectures"
+          },
+          {
+            "code": "ITX 4107",
+            "name": "Web Application Development"
+          },
+          {
+            "code": "ITX 4108",
+            "name": "iOS Application Development"
+          },
+          {
+            "code": "ITX 4109",
+            "name": "Android Application Development"
+          },
+          {
+            "code": "ITX 4201",
+            "name": "Artificial Intelligence Concepts"
+          },
+          {
+            "code": "ITX 4202",
+            "name": "Data Mining"
+          },
+          {
+            "code": "ITX 4203",
+            "name": "Machine Learning"
+          },
+          {
+            "code": "ITX 4204",
+            "name": "Biometrics"
+          },
+          {
+            "code": "ITX 4205",
+            "name": "Big Data Analytics"
+          },
+          {
+            "code": "ITX 4206",
+            "name": "Data Warehousing and Business Intelligence"
+          },
+          {
+            "code": "ITX 4207",
+            "name": "Decision Support and Recommender Systems"
+          },
+          {
+            "code": "ITX 4208",
+            "name": "Deep Learning"
+          },
+          {
+            "code": "ITX 4209",
+            "name": "Intelligent System Development"
+          },
+          {
+            "code": "ITX 4210",
+            "name": "Natural Language Processing and Social Interactions"
+          },
+          {
+            "code": "ITX 4301",
+            "name": "Network Design"
+          },
+          {
+            "code": "ITX 4302",
+            "name": "Cisco Networking Workshop"
+          },
+          {
+            "code": "ITX 4303",
+            "name": "Network Security"
+          },
+          {
+            "code": "ITX 4304",
+            "name": "Network Management"
+          },
+          {
+            "code": "ITX 4305",
+            "name": "Heterogeneous Wireless Networks"
+          },
+          {
+            "code": "ITX 4306",
+            "name": "Internet of Things"
+          },
+          {
+            "code": "ITX 4307",
+            "name": "Business Continuity Planning and Management"
+          },
+          {
+            "code": "ITX 4402",
+            "name": "Sales and Distribution Management System"
+          },
+          {
+            "code": "ITX 4403",
+            "name": "Manufacturing Management System"
+          },
+          {
+            "code": "ITX 4404",
+            "name": "Supply Chain Management System"
+          },
+          {
+            "code": "ITX 4405",
+            "name": "Finance and Accounting Information System"
+          },
+          {
+            "code": "ITX 4406",
+            "name": "Customer Relationship Management System"
+          },
+          {
+            "code": "ITX 4407",
+            "name": "Enterprise Application Development"
+          },
+          {
+            "code": "ITX 4408",
+            "name": "Enterprise Database System"
+          },
+          {
+            "code": "ITX 4409",
+            "name": "Blockchain Technology"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses Group 2",
+        "subjects": [
+          {
+            "code": "ITX 4502",
+            "name": "Tech Startup"
+          },
+          {
+            "code": "ITX 4503",
+            "name": "Information Systems Security"
+          },
+          {
+            "code": "ITX 4504",
+            "name": "Digital Marketing"
+          },
+          {
+            "code": "ITX 4505",
+            "name": "Digital Transformation"
+          },
+          {
+            "code": "ITX 4506",
+            "name": "Image Processing"
+          },
+          {
+            "code": "ITX 4507",
+            "name": "Information Retrieval and Search Engines"
+          },
+          {
+            "code": "ITX 4508",
+            "name": "Quantitative Research for Digital Business"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "A",
+    "value": 4
+  },
+    {
+    "name": "A-",
+    "value": 3.75
+  },
+    {
+    "name": "B+",
+    "value": 3.25
+  },
+    {
+    "name": "B",
+    "value": 3
+  },
+    {
+    "name": "B-",
+    "value": 2.75
+  },
+    {
+    "name": "C+",
+    "value": 2.25
+  },
+   {
+    "name": "C",
+    "value": 2
+  },
+   {
+    "name": "C-",
+    "value": 1.75
+  },
+   {
+    "name": "D",
+    "value": 1
+  },
+   {
+    "name": "F",
+    "value": 0
+  },
+   {
+    "name": "W",
+    "value": "exclude"
+  }
+]

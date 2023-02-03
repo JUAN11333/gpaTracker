@@ -1,0 +1,66 @@
+
+.header {
+    text-align: center;
+}
+
+.bottom {
+    margin-top: 10px;
+    height: auto;
+}
+.clearfix::after {
+                content: "";
+                display: block;
+                clear: both;
+}
+
+.left{
+    text-align: center;
+    float: left;
+    width: 60%;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.left .ant-select {
+    min-width: 300px !important;
+}
+
+.left .submit-btn {
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.right {
+    float: right;
+    width: 36%;
+    border: 1px solid black;
+    height: 346px;
+    display: flex;
+    flex-direction: column;
+}
+
+.data {
+    overflow-y: scroll;
+    flex: 1;
+}
+
+.right-total {
+    border-top: 1px solid black;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.item {
+    margin-top: 10px;
+}
+
+.item__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+table tr td{width:100%; height:30px; background-color:#000000; color:#ffffff;}
